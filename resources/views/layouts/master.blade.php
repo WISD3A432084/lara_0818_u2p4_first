@@ -1,7 +1,6 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: admin
- * Date: 2017/11/2
- * Time: 上午 10:50
- */
+<!-- Bootstrap Core CSS -->
+<link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
+<!-- Theme CSS -->
+<link href="{{asset('css/clean-blog.min.css')}}" rel="stylesheet">
+<!-- Custom Fonts -->
+<link href="{{asset('css/font-awesome.min.css')}}" rel="stylesheet" type="text/css">
